@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IFSP</string>
+    <string name="R.btn_db_load">Carregar do banco de dados</string>
+    <string name="btn_api_load">Carregar Livro</string>
+</resources>
